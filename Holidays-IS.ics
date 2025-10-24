@@ -1,8 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Chimbori//CSV to iCal Convertor// https://csv-to-ical.chimbori.com/ //EN
+PRODID:Holidays-IS
+X-WR-CALNAME:Hátíðisdagar
+X-WR-CALDESC:Íslenskir frídagar og aðrir hátíðisdagar (https://dagarnir.is/)
 CALSCALE:GREGORIAN
-X-WR-CALNAME;VALUE=TEXT:Dagarnir_2026
 BEGIN:VEVENT
 SUMMARY:Nýársdagur 🇮🇸
 DTSTAMP:20260101T000000
