@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Holidays-IS
-X-WR-CALNAME:Hátíðisdagar
+X-WR-CALNAME:Hátíðisdagar 🇮🇸
 X-WR-CALDESC:Íslenskir frídagar og aðrir hátíðisdagar (https://dagarnir.is/)
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
